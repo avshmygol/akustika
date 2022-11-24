@@ -22,7 +22,7 @@ body {
   border-radius: 10px;
 }
 
-p {
+.without_padding {
   padding: 0;
 }
 
@@ -49,7 +49,7 @@ div.paragraph {
   background: #FFFCE6;
 }
 
-video {
+video.video_block {
   margin: 20px auto;
   width: 800px;
   height: 600px;
